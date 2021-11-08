@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Sriharsha Namilakonda
 - 👀 I’m interested in reading books, travelling, programming (DS Algo, MERN stack, Java), watching and playing Cricket
 - I have graduated from NIT Kurukshetra in 2020, specialized in computer science. Since then, I'm working in Lowe's India
-- 💞️ I’m looking to collaborate on full stack development projects
-- 📫 How to reach me 
+- I’m looking to collaborate on full stack development projects
+
 Mail: sriharsha.namilakonda@gmail.com
 LinkedIn: https://www.linkedin.com/in/sriharsha-namilakonda-370546143/
 
