@@ -13,14 +13,15 @@
 <img src="media/node-brands.svg" height="30px" width="30px"> &nbsp;
 <img src="media/java-brands.svg" height="30px" width="30px"> &nbsp;
 </div>
+<br>
 <hr>
 <br>
 <h3> About me </h3>
 <p>
-Software Engineer at Lowe's <img src="media/briefcase-solid.svg" height="30px" width="30px">
+<img src="media/briefcase-solid.svg" height="25px" width="25px"> &nbsp; Software Engineer at Lowe's 
 </p>
 <p>
-NIT Kurukshetra 2020 graduate in Computer Engineering <img src="media/user-graduate-solid.svg" height="30px" width="30px">
+<img src="media/user-graduate-solid.svg" height="25px" width="25px"> &nbsp; NIT Kurukshetra'20 graduate in Computer Engineering 
 </p>
 
 <br>
