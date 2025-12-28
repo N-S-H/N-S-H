@@ -12,13 +12,23 @@
 <a href="https://reactjs.org/docs/getting-started.html" target="_blank"><img src="media/react-brands.svg" height="30px" width="30px"></a> &nbsp;
 <a href="https://nodejs.org/en/" target="_blank"><img src="media/node-brands.svg" height="30px" width="30px"></a> &nbsp;
 <a href="https://www.java.com/en/" target="_blank"><img src="media/java-brands.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://www.java.com/en/" target="_blank"><img src="media/python-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://spring.io/projects/spring-boot" target="_blank"><img src="media/spring-icon-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://www.java.com/en/" target="_blank"><img src="media/kubernetes-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://www.java.com/en/" target="_blank"><img src="media/docker-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://www.java.com/en/" target="_blank"><img src="media/aws-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://www.java.com/en/" target="_blank"><img src="media/azure-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
+<a href="https://www.java.com/en/" target="_blank"><img src="media/gcp-svgrepo-com.svg" height="30px" width="30px"></a> &nbsp;
 </div>
 <br>
 <hr>
 <br>
 <h3> About me </h3>
 <p>
-<a href="https://lowes.co.in/" target="_blank"><img src="media/briefcase-solid.svg" height="25px" width="25px"></a> &nbsp; Software Engineer at Lowe's 
+<a href="https://lowes.co.in/" target="_blank"><img src="media/briefcase-solid.svg" height="25px" width="25px"></a> &nbsp; Senior Software Development Engineer 
+</p>
+<p>
+<a href="https://omscs.gatech.edu/" target="_blank"><img src="media/graduate-diploma.svg" height="25px" width="25px"></a> &nbsp; Master of Science in Computer Science at Georgia Tech 
 </p>
 <p>
 <a href="http://www.nitkkr.ac.in/index.php" target="_blank"><img src="media/user-graduate-solid.svg" height="25px" width="25px"></a> &nbsp; NIT Kurukshetra'20 graduate in Computer Engineering 
